@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="36981" started-at="2017-08-03T12:37:46Z" finished-at="2017-08-03T12:38:23Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="36981" started-at="2017-08-03T12:37:46Z" finished-at="2017-08-03T12:38:23Z">
+      <class name="STTA.MavenProject.SampleTest_with_PageObjectSample">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:STTA.MavenProject.SampleTest_with_PageObjectSample@3532ec19]" name="beforeClass" is-config="true" duration-ms="4082" started-at="2017-08-03T15:37:46Z" finished-at="2017-08-03T15:37:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="sampleTest()[pri:0, instance:STTA.MavenProject.SampleTest_with_PageObjectSample@3532ec19]" name="sampleTest" duration-ms="32776" started-at="2017-08-03T15:37:50Z" finished-at="2017-08-03T15:38:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleTest -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:STTA.MavenProject.SampleTest_with_PageObjectSample@3532ec19]" name="afterClass" is-config="true" duration-ms="96" started-at="2017-08-03T15:38:23Z" finished-at="2017-08-03T15:38:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- STTA.MavenProject.SampleTest_with_PageObjectSample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
