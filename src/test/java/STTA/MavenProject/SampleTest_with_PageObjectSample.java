@@ -36,7 +36,7 @@ public class SampleTest_with_PageObjectSample {
 	}
 
 	@Test
-	public void sampleTest() {
+	public void sampleTest() { 
 		// 1 (action) Открыть http://svyatoslav.biz/testlab/wt
 		driver.get(base_url + "/testlab/wt/");
 		// С этого момента можно использовать PajeObject.
